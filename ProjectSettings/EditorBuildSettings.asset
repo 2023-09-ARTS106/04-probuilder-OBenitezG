@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Scene 4 - Eels and Excalators.unity
+    guid: 6acd7c37635cdc04595ec516d4e3b5ba
   m_configObjects: {}
