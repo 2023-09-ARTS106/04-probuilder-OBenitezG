@@ -5,7 +5,16 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Scene 4 - Eels and Excalators.unity
     guid: 6acd7c37635cdc04595ec516d4e3b5ba
+  - enabled: 0
+    path: Assets/Scenes/Scene 2 - Exterior.unity
+    guid: b89b6b125857037479c4f3a2a0b621b8
+  - enabled: 0
+    path: Assets/Scenes/Scene 1 - Modern Art Gallery.unity
+    guid: 9e810b9cb992e744698aa04782583f80
+  - enabled: 1
+    path: Assets/Scenes/Scene 3 - Props.unity
+    guid: a3f7a7b8b70d6e44bafc6607d82ff791
   m_configObjects: {}
